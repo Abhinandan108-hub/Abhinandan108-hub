@@ -1,9 +1,7 @@
 🚀 Professional Profile
 
 🎯 Results-oriented developer with hands-on experience in building scalable, high-performance web applications using modern full-stack technologies.
-
 🔐 Skilled in API integration, backend architecture, authentication systems, database design, and deployment workflows.
-
 📈 Passionate about backend engineering, system optimization, and continuously advancing in full-stack and AI-driven development.
 
 
